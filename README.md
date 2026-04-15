@@ -1,4 +1,4 @@
-# 🧠 Low-Cost EEG-Based Brain Computer Interface (SSVEP)
+## 🧠 Low-Cost EEG-Based Brain Computer Interface (SSVEP)
 
 This project implements a **low-cost EEG-based Brain-Computer Interface (BCI)** using **Steady-State Visually Evoked Potentials (SSVEP)**.
 
@@ -29,7 +29,7 @@ The system works by:
 
 ## 🧩 System Architecture
 
-
+![System Diagram](assets/architecture.png)
 
 ---
 
