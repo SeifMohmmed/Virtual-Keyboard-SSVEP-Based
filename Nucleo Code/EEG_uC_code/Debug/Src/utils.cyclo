@@ -1,0 +1,5 @@
+../Src/utils.c:29:6:HAL_Status_Check	3
+../Src/utils.c:39:13:wait_uart_ready	3
+../Src/utils.c:55:6:HAL_print_raw	1
+../Src/utils.c:63:6:HAL_printf_valist	3
+../Src/utils.c:89:6:HAL_printf	1
